@@ -9,8 +9,8 @@ standard library only.
 import os
 
 TEXT = (
-    "Our printer only jams when something is urgent, so it's the most "
-    "honest performance review in the building."
+    "The office plant is the only one with a growth plan, so HR asked "
+    "it to mentor the team."
 )
 
 OUTPUT_PATH = "/output/entry.txt"
